@@ -31,7 +31,7 @@ The objective of this project is to design and develop a dynamic and interactive
 
 ## Getting Started
 
-To get started with the Financial Complaints Overview project using Power BI, follow these steps:
+To get started with the Car Sales Overview project using Power BI, follow these steps:
 
 Ensure you have Power BI Desktop installed on your machine. If not, download and install it from the Power BI website.
 Clone the project repository or obtain the complaints data from your source.
